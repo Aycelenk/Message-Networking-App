@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\bin\Debug\net6.0-windows\Cs_408Project.exe
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\bin\Debug\net6.0-windows\Cs_408Project.deps.json
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\bin\Debug\net6.0-windows\Cs_408Project.runtimeconfig.json
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\bin\Debug\net6.0-windows\Cs_408Project.dll
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\bin\Debug\net6.0-windows\Cs_408Project.pdb
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.Form1.resources
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.AssemblyInfo.cs
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.dll
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\refint\Cs_408Project.dll
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.pdb
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\Cs_408Project.genruntimeconfig.cache
+C:\Users\HP\Desktop\aycelenkaptan_Kaptan_Aycelen\Client\Cs_408Project\obj\Debug\net6.0-windows\ref\Cs_408Project.dll
